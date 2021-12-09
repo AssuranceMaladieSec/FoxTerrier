@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Author : Alice Climent-Pommeret (Pentester @ Caisse Nationale de l'Assurance Maladie)
-# Copyright (c) 2018-2021 Caisse nationale d'Assurance Maladie
+# Copyright (c) Caisse nationale d'Assurance Maladie
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
