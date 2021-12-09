@@ -1,0 +1,20 @@
+{
+	"queries": [	
+		{
+      "node_start_type": "Group",
+      "node_start_name": "GENERIC-GROUP-\\d{8}.*@MYDOMAIN.LOCAL",
+			"is_node_start_regex": true,
+			"mode": "all",
+			"objects_type": ["GPO", "OU" ,"User", "Group","RDP"],
+			"exclude_node": ["GENERIC-GROUP-11111111@MYDOMAIN.LOCAL","GENERIC-GROUP-22222222@MYDOMAIN.LOCAL"]
+
+        },
+		{
+      "node_start_type": "User",
+      "node_start_name": "MY-AD-ACCOUNT@MYDOMAIN.LOCAL",
+			"is_node_start_regex": false,
+			"mode": "direct",
+			"objects_type": ["GPO"],
+     }		
+	]
+}
