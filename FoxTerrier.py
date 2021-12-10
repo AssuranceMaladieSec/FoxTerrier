@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 # Author : Alice Climent-Pommeret (Pentester @ Caisse Nationale de l'Assurance Maladie)
