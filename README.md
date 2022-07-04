@@ -170,3 +170,8 @@ The results are displayed here in a table for presentation purpose. The results 
 | MY-USER@MONDOMAIN.LOCAL 	| GROUP-1644@MONDOMAIN.LOCAL  		|CN=GROUP-1644,OU=Berlin,OU=Germany,OU=My Big Company,DC=mondomain,DC=local				| Group 			|
 | MY-USER@MONDOMAIN.LOCAL 	| GPO-2561@MONDOMAIN.LOCAL 			|CN={12345678-1234-5678-9123-012345678911},CN=Policies,CN=System,DC=mondomain,DC=local	| GPO 			|
 
+## Author
+- Alice Climent-Pommeret ([alice.climentpommeret@assurance-maladie.fr](mailto:alice.climentpommeret@assurance-maladie.fr))
+
+## License
+GNU GENERAL PUBLIC LICENSE (GPL) Version 3
